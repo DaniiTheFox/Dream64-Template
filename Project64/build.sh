@@ -1,0 +1,1 @@
+g++ ./main.cpp -o Project64 -lGL -lGLU -lglut
